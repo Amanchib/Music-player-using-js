@@ -1,6 +1,6 @@
 var songs = ["Main Changi Hai Sidhu Moosewala.mp3","Devil Sidhu Moosewala.mp3",
             "Gaddi (Death Route) Sidhu Moosewala.mp3",
-            "Jatt Da Muqabala Sidhu Moosewala.mp3"];
+            ];
 
 var songTitle = document.getElementById('songTitle');
 var songSlider = document.getElementById('songSlider');
